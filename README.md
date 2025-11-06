@@ -1,30 +1,35 @@
-<img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=EissaShehab&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="Eissa's GitHub Stats" />
-
 # Hi there, I'm Issa Shehab 👋
 
 Flutter Developer | Fresh Grad '25 | Building real-world apps that matter
 
-Google Developer Expert in the making 🚀  
-Currently obsessed with **Clean Architecture**, **Riverpod**, and **Firebase**
+### 👨‍💻 About Me
+I am a Mobile Developer with a strong focus on building scalable, user-friendly, and impactful applications. My core expertise lies in Flutter and native Android development, complemented by experience in modern software design, clean architecture, and cross-platform solutions.  
+I am passionate about continuous learning, exploring advanced technologies, and contributing to the developer community through content, collaboration, and knowledge sharing.
 
-- 🔭 I just shipped **Little Steps** – AI-powered child health app (solo in 3 months)
-- 🌱 Mastering **Flutter Advanced Patterns** & **Backend with .NET Core**
-- 👯 Open to collaborate on **Flutter**, **Firebase**, or **Health-Tech** projects
-- 💬 Ask me about **Flutter**, **Dart**, **BLoC**, **Riverpod**, **Firebase**, **REST APIs**
-- 📫 How to reach me: **eissashehab846@gmail.com**
+### 🔎 Focus Areas
+- **Current Projects**: AI-driven mobile solutions  
+- **Exploring**: Flutter internals, Android Jetpack, scalable app architecture, and DevOps (CI/CD)  
+- **Expertise**: Flutter, Dart, Android Native, design patterns, clean architecture  
+- **Core Values**: Lifelong learning · Collaboration · Community contribution
+
+### 🛠 Technical Skills
+- **Programming Languages**: Dart, Java, JavaScript, C++, C#, Python  
+- **Mobile Development**: Flutter, Android (Java, Kotlin)  
+- **State Management**: Provider, Riverpod, BLoC  
+- **Backend and Databases**: .Net Core, Firebase (FCM, Firestore, Realtime DB), MySQL  
+- **DevOps and Tools**: Git, GitHub, GitHub Actions, CI/CD  
+- **Web and API**: RESTful APIs, Postman  
+- **Architecture**: MVVM, Clean Architecture, SOLID, OOP Design Patterns  
+
+[View Full Resume (PDF)](https://drive.google.com/file/d/12H73E9dnKc1q8rwyHzDuQBtACiTUBi0p/view?usp=drivesdk)
 
 <br>
 
 ### Some Projects
-- [Little Steps (Android)](https://github.com/EissaShehab/Little-Steps) → Child Health + AI Symptom Checker
-- [Wasil Shopping (Android)](https://github.com/EissaShehab/wasil-shopping) → E-Commerce with Offline & BLoC
-- [Emoji Prediction (Android)](https://github.com/EissaShehab/Emoji-Prediction) → NLP + Flutter UI
+- [Little Steps (Android)](https://github.com/EissaShehab/Little-Steps) → Child Health + AI Symptom Checker  
+- [Wasil Shopping (Android)](https://github.com/EissaShehab/wasil-shopping) → E-Commerce with Offline & BLoC  
+- [Emoji Prediction (Android)](https://github.com/EissaShehab/Emoji-Prediction) → NLP + Flutter UI  
 - [Meal Recipes (Android)](https://github.com/EissaShehab/Meals-Project) → Riverpod + Animations
-
-<br>
-
-### GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EissaShehab&layout=compact&theme=dracula&hide_border=true&langs_count=6" alt="Top Languages" />
 
 <br>
 
